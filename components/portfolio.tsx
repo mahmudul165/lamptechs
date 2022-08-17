@@ -40,7 +40,7 @@ export default function Portfolio() {
         <div className="column is-6-tablet is-6-desktop">
           <Project
             projectName="Regulatory advisor"
-            projectImage="/public/regulatory.PNG"
+            projectImage="/regulatory.PNG"
             projectLink="https://regulatedadvice.co.uk/"
           />
         </div>
