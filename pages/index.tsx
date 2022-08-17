@@ -12,6 +12,7 @@ import Portfolio from "../components/portfolio";
 import Testimonials from "../components/testimonials";
 import Pricing from "../components/pricing";
 import Contact, { SocialLinks } from "../components/contact";
+import Contac from "../components/contac";
 import Footer from "../components/footer";
 import FloatingActionButton from "../components/floatingActionButton";
 
@@ -86,6 +87,7 @@ export default function HomePage() {
         <Testimonials />
         <Pricing />
         <Contact socialLinks={socialLinks} />
+        {/* <Contac /> */}
       </main>
 
       <FloatingActionButton />
